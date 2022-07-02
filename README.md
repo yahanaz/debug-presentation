@@ -9,4 +9,6 @@ Based on this project written articles:
 ## Documentation
 Presentation based on honey getting process.
 
-**Note**: 1 honey point = 2 nectar points
+**Note**: 
+* 1 honey point = 2 nectar points
+* The queen bee eats 2 units of honey every time when beehive is replenished with honey.
